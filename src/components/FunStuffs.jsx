@@ -1,7 +1,9 @@
-import React from 'react';
 import sibiVideo from '../assets/Sibi_video.mp4';
 import sibiSong from '../assets/Sibi_song.mp4';
 import songVideo from '../assets/song.mp4';
+import swimPoster from '../assets/sibi-swim-poster.jpg';
+import sibiSongPoster from '../assets/sibi-song-poster.jpg';
+import guitarSongPoster from '../assets/guitar-song-poster.jpg';
 
 const FunStuffs = () => {
   return (
@@ -26,7 +28,7 @@ const FunStuffs = () => {
                 <video
                   controls
                   className="w-full max-w-xs mx-auto rounded-lg shadow-lg"
-                  poster=""
+                  poster={swimPoster}
                 >
                   <source src={sibiVideo} type="video/mp4" />
                   Your browser does not support the video tag.
@@ -37,7 +39,7 @@ const FunStuffs = () => {
               <div>
                 <p className="text-base sm:text-lg text-gray-600 leading-relaxed">
                   What started as a casual conversation with friends turned into a bold bet.
-                  They didn't think I'd actually do it swim in freezing water at 3 AM.
+                  They didn&apos;t think I&apos;d actually do it swim in freezing water at 3 AM.
                   But I never back down from a challenge not for money, just for fun.
                 </p>
               </div>
@@ -59,7 +61,7 @@ const FunStuffs = () => {
                       <video
                         controls
                         className="max-w-full max-h-full object-contain"
-                        poster=""
+                        poster={sibiSongPoster}
                       >
                         <source src={sibiSong} type="video/mp4" />
                         Your browser does not support the video tag.
@@ -78,7 +80,7 @@ const FunStuffs = () => {
                       <video
                         controls
                         className="max-w-full max-h-full object-contain"
-                        poster=""
+                        poster={guitarSongPoster}
                       >
                         <source src={songVideo} type="video/mp4" />
                         Your browser does not support the video tag.
@@ -94,8 +96,8 @@ const FunStuffs = () => {
               {/* Musical Content */}
               <div className="text-center mt-8">
                 <p className="text-base sm:text-lg text-gray-600 leading-relaxed max-w-2xl mx-auto">
-                  Music has always been a passion of mine. Whether it's strumming the guitar or
-                  singing along to my favorite songs, it's my way to unwind and express creativity.
+                  Music has always been a passion of mine. Whether it&apos;s strumming the guitar or
+                  singing along to my favorite songs, it&apos;s my way to unwind and express creativity.
                   These moments capture the joy I find in making music.
                 </p>
               </div>

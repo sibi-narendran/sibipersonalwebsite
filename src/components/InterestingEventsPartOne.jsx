@@ -1,7 +1,7 @@
 import sridharImage from '../assets/sridher_vanbu.jpeg';
 import parliamentImage1 from '../assets/image_1.jpeg';
 import parliamentImage2 from '../assets/Image_2.jpeg';
-import denmarkMeeting from '../assets/dooza-denmark-meeting.png';
+import denmarkMeeting from '../assets/dooza-denmark-call.png';
 
 const InterestingEventsPartOne = () => {
   return (

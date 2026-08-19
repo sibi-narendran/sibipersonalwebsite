@@ -1,6 +1,6 @@
 import sureshTimbersImage from '../assets/suresh_timbers.jpeg';
 import interioLogo from '../assets/interio_logo.png';
-import doozaWordmark from '../assets/dooza-wordmark-dark.webp';
+import doozaWordmark from '../assets/dooza-wordmark-light.webp';
 import doozaIcon from '../assets/dooza-icon.webp';
 
 const Ventures = () => {
