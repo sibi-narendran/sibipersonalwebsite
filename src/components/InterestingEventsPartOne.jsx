@@ -81,13 +81,13 @@ const InterestingEventsPartOne = () => {
           <div className="max-w-4xl mx-auto denmark-card">
             <div className="denmark-copy">
               <p className="section-kicker">Copenhagen · Dooza</p>
-              <h3>Met a Member of Parliament of Denmark and delivered Dooza to him.</h3>
+              <h3>A Member of Parliament of Denmark booked a Dooza support call.</h3>
               <p>
-                I met Jeppe Søe, a Member of Parliament of Denmark, and introduced him to Dooza.
+                Jeppe Søe, a Member of Parliament of Denmark, was already using Dooza and booked a customer-support meeting with me.
                 It was a meaningful reminder that the work can travel well beyond the room where it begins.
               </p>
             </div>
-            <img src={denmarkMeeting} alt="Video call introducing Dooza to Jeppe Søe" />
+            <img src={denmarkMeeting} alt="Dooza customer-support call with Jeppe Søe" />
           </div>
         </div>
       </section>
