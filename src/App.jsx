@@ -1,4 +1,3 @@
-import React from "react";
 import HeroSection from "./components/HeroSection";
 import InterestingEventsPartOne from "./components/InterestingEventsPartOne";
 import CollegeDropoutSection from "./components/CollegeDropoutSection";
@@ -11,7 +10,7 @@ import "./App.css";
 
 const App = () => {
   return (
-    <div className="App">
+    <div className="App site-portfolio">
       <Navbar />
       <HeroSection />
       <InterestingEventsPartOne />

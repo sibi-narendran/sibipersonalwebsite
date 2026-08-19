@@ -5,7 +5,7 @@ import songVideo from '../assets/song.mp4';
 
 const FunStuffs = () => {
   return (
-    <div className="min-h-screen bg-white">
+    <div className="fun-shell min-h-screen bg-white">
       {/* Main Header */}
       <section className="py-12 sm:py-16 lg:py-20">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
@@ -13,18 +13,18 @@ const FunStuffs = () => {
             <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-center mb-8 sm:mb-12 text-gray-900">
               Fun stuffs
             </h2>
-            
+
             <h3 className="text-xl sm:text-2xl text-center mb-8 sm:mb-12 text-gray-600">
               Won a $500 bet by swimming at 3 AM in 8°C water
             </h3>
-            
+
             {/* Video and Content Layout */}
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 sm:gap-12 items-center">
-              
+
               {/* Video Section - Left */}
               <div className="text-center">
-                <video 
-                  controls 
+                <video
+                  controls
                   className="w-full max-w-xs mx-auto rounded-lg shadow-lg"
                   poster=""
                 >
@@ -32,12 +32,12 @@ const FunStuffs = () => {
                   Your browser does not support the video tag.
                 </video>
               </div>
-              
+
               {/* Content - Right */}
               <div>
                 <p className="text-base sm:text-lg text-gray-600 leading-relaxed">
-                  What started as a casual conversation with friends turned into a bold bet. 
-                  They didn't think I'd actually do it swim in freezing water at 3 AM. 
+                  What started as a casual conversation with friends turned into a bold bet.
+                  They didn't think I'd actually do it swim in freezing water at 3 AM.
                   But I never back down from a challenge not for money, just for fun.
                 </p>
               </div>
@@ -48,16 +48,16 @@ const FunStuffs = () => {
               <h3 className="text-xl sm:text-2xl text-center mb-8 sm:mb-12 text-gray-600">
                 Amateur guitar player and singer, learned from YouTube
               </h3>
-              
+
               {/* Music Videos Grid */}
               <div className="grid grid-cols-1 md:grid-cols-2 gap-8 sm:gap-12">
-                
+
                 {/* First Music Video */}
                 <div className="text-center">
                   <div className="w-full max-w-sm mx-auto">
                     <div className="aspect-video bg-gray-100 rounded-lg shadow-lg overflow-hidden mb-4 flex items-center justify-center">
-                      <video 
-                        controls 
+                      <video
+                        controls
                         className="max-w-full max-h-full object-contain"
                         poster=""
                       >
@@ -70,13 +70,13 @@ const FunStuffs = () => {
                     Singing my favorite song
                   </p>
                 </div>
-                
+
                 {/* Second Music Video */}
                 <div className="text-center">
                   <div className="w-full max-w-sm mx-auto">
                     <div className="aspect-video bg-gray-100 rounded-lg shadow-lg overflow-hidden mb-4 flex items-center justify-center">
-                      <video 
-                        controls 
+                      <video
+                        controls
                         className="max-w-full max-h-full object-contain"
                         poster=""
                       >
@@ -90,12 +90,12 @@ const FunStuffs = () => {
                   </p>
                 </div>
               </div>
-              
+
               {/* Musical Content */}
               <div className="text-center mt-8">
                 <p className="text-base sm:text-lg text-gray-600 leading-relaxed max-w-2xl mx-auto">
-                  Music has always been a passion of mine. Whether it's strumming the guitar or 
-                  singing along to my favorite songs, it's my way to unwind and express creativity. 
+                  Music has always been a passion of mine. Whether it's strumming the guitar or
+                  singing along to my favorite songs, it's my way to unwind and express creativity.
                   These moments capture the joy I find in making music.
                 </p>
               </div>
@@ -106,7 +106,7 @@ const FunStuffs = () => {
               <h3 className="text-xl sm:text-2xl text-center mb-8 sm:mb-12 text-gray-600">
                 Other passions and interests
               </h3>
-              
+
               <div className="text-center">
                 {/* Reading and Writing */}
                 <div className="flex items-center justify-center mb-4">
@@ -125,4 +125,4 @@ const FunStuffs = () => {
   );
 };
 
-export default FunStuffs; 
+export default FunStuffs;

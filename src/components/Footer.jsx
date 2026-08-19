@@ -5,10 +5,10 @@ import { faEnvelope, faCalendarAlt } from '@fortawesome/free-solid-svg-icons';
 
 const Footer = () => {
   return (
-    <footer className="bg-gray-900 text-white py-12 sm:py-16">
+    <footer className="site-footer bg-gray-900 text-white py-12 sm:py-16">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="max-w-4xl mx-auto text-center">
-          
+
           {/* Main Footer Content */}
           <div className="mb-8">
             <h3 className="text-2xl sm:text-3xl font-bold mb-4">
@@ -23,14 +23,14 @@ const Footer = () => {
           <div className="mb-8">
             <h4 className="text-xl font-semibold mb-4">Get In Touch</h4>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-6">
-              <a 
+              <a
                 href="mailto:sibinarendran@gmail.com"
                 className="flex items-center text-gray-300 hover:text-white transition-colors"
               >
                 <FontAwesomeIcon icon={faEnvelope} className="mr-2" />
                 sibinarendran@gmail.com
               </a>
-              <a 
+              <a
                 href="https://calendly.com/sibinarendran/new-meeting"
                 className="flex items-center bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition-colors"
               >
@@ -44,18 +44,18 @@ const Footer = () => {
           <div className="mb-8">
             <h4 className="text-xl font-semibold mb-4">Connect With Me</h4>
             <div className="flex items-center justify-center space-x-6">
-              <a 
-                href="https://www.linkedin.com/in/sibi-narendran-1a5a19150/" 
-                target="_blank" 
+              <a
+                href="https://www.linkedin.com/in/sibi-narendran-1a5a19150/"
+                target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-blue-400 hover:scale-110 transition-all duration-200 transform"
                 aria-label="LinkedIn Profile"
               >
                 <FontAwesomeIcon icon={faLinkedin} className="text-3xl" />
               </a>
-              <a 
-                href="https://x.com/sibinarendran" 
-                target="_blank" 
+              <a
+                href="https://x.com/sibinarendran"
+                target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-gray-100 hover:scale-110 transition-all duration-200 transform"
                 aria-label="Twitter/X Profile"
@@ -77,4 +77,4 @@ const Footer = () => {
   );
 };
 
-export default Footer; 
+export default Footer;
