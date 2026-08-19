@@ -81,9 +81,9 @@ const InterestingEventsPartOne = () => {
           <div className="max-w-4xl mx-auto denmark-card">
             <div className="denmark-copy">
               <p className="section-kicker">Copenhagen · Dooza</p>
-              <h3>Met a Member of Parliament in Denmark and delivered Dooza to him.</h3>
+              <h3>Met a Member of Parliament of Denmark and delivered Dooza to him.</h3>
               <p>
-                I met Jeppe Søe, a Member of Parliament in Denmark, and introduced him to Dooza.
+                I met Jeppe Søe, a Member of Parliament of Denmark, and introduced him to Dooza.
                 It was a meaningful reminder that the work can travel well beyond the room where it begins.
               </p>
             </div>
