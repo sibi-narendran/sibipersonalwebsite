@@ -192,3 +192,9 @@
 .agi-essay__post { margin: 0 auto; max-width: 50rem; }
 .agi-essay__post .agi-essay__intro { margin: 0; }
 @media (max-width: 760px) { .agi-blog-header { margin-bottom: 3rem; } }
+
+
+/* Landing-page blog CTA */
+.hero-blog-button { align-items: center; border: 1px solid var(--teal); color: var(--teal); display: inline-flex; font-family: var(--mono); font-size: .72rem; gap: .65rem; letter-spacing: .06em; margin-top: 1.8rem; padding: .82rem 1.1rem; text-transform: uppercase; transition: background-color .2s ease, color .2s ease; }
+.hero-blog-button:hover { background: var(--teal); color: #fff; }
+.hero-blog-button span { font-size: 1rem; line-height: .5; }
