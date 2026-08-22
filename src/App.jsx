@@ -6,9 +6,21 @@ import InterestingEventsPartTwo from "./components/InterestingEventsPartTwo";
 import FunStuffs from "./components/FunStuffs";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
+import BlogPage from "./components/BlogPage";
+import TextFirstAgi from "./components/TextFirstAgi";
 import "./App.css";
 
 const App = () => {
+  const pathname = window.location.pathname.replace(/\/+$/, "") || "/";
+
+  if (pathname === "/blog") {
+    return <BlogPage />;
+  }
+
+  if (pathname === "/blog/text-first-agi") {
+    return <TextFirstAgi />;
+  }
+
   return (
     <div className="App site-portfolio">
       <Navbar />
