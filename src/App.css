@@ -219,3 +219,9 @@
 .blog-card__excerpt { color: var(--muted); line-height: 1.7; margin: 1rem 0; max-width: 43rem; }
 .blog-card__read { color: var(--teal); font-family: var(--mono); font-size: .7rem; letter-spacing: .05em; text-transform: uppercase; }
 @media (max-width: 760px) { .navigation-blog-button { padding: .4rem .53rem; } .blog-index__content { padding: 5rem 1.5rem; } .blog-post-list { margin-top: 3rem; } }
+
+
+.post-page-nav { align-items: center; border-bottom: 1px solid var(--line); display: flex; justify-content: space-between; margin: calc(clamp(5rem, 10vw, 9rem) * -1) auto clamp(4rem, 8vw, 7rem); max-width: 90rem; padding: 1.25rem clamp(1.5rem, 4vw, 4rem); }
+.post-page-nav__brand { color: var(--ink); font-size: 1.08rem; font-weight: 700; letter-spacing: -.055em; }
+.post-page-nav__brand span { color: var(--teal); }
+.post-page-nav__back { color: var(--muted); font-family: var(--mono); font-size: .68rem; letter-spacing: .05em; text-transform: uppercase; }
