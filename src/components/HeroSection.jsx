@@ -27,7 +27,7 @@ const HeroSection = () => {
               Ordinary guy with extra ordinary abilities.
             </p>
             <p className="hero-note">Building businesses from Chennai, India.</p>
-            <a className="hero-blog-button" href="/blog.html">Read the blog <span aria-hidden="true">↓</span></a>
+            <a className="hero-blog-button" href="/blog">Read the blog <span aria-hidden="true">↓</span></a>
           </div>
         </div>
       </section>
