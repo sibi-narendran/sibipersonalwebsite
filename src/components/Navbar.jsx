@@ -10,43 +10,28 @@ const Navbar = () => {
   useEffect(() => {
     const handleScroll = () => {
       const currentScrollY = window.scrollY;
-
-      // Show navbar when at top of page
-      if (currentScrollY < 10) {
-        setIsVisible(true);
-      }
-      // Hide when scrolling down, show when scrolling up
-      else if (currentScrollY > lastScrollY) {
-        setIsVisible(false); // Scrolling down
-      } else {
-        setIsVisible(true); // Scrolling up
-      }
-
+      if (currentScrollY < 10) setIsVisible(true);
+      else if (currentScrollY > lastScrollY) setIsVisible(false);
+      else setIsVisible(true);
       setLastScrollY(currentScrollY);
     };
 
     window.addEventListener('scroll', handleScroll, { passive: true });
-
-    return () => {
-      window.removeEventListener('scroll', handleScroll);
-    };
+    return () => window.removeEventListener('scroll', handleScroll);
   }, [lastScrollY]);
 
   return (
-    <nav className={`site-navigation fixed top-0 w-full z-50 bg-white shadow-sm border-b border-gray-100 transition-transform duration-300 ${
-      isVisible ? 'translate-y-0' : '-translate-y-full'
-    }`}>
+    <nav className={`site-navigation fixed top-0 w-full z-50 bg-white shadow-sm border-b border-gray-100 transition-transform duration-300 ${isVisible ? 'translate-y-0' : '-translate-y-full'}`}>
       <div className="navigation-inner w-full px-6 sm:px-8">
         <div className="flex justify-between items-center h-16">
           <a className="navigation-name" href="#home">Sibi Narendran<span>.</span></a>
           <div className="navigation-links" aria-label="Sections">
             <a href="#ventures">Ventures</a>
-            <a href="/blog.html">Blog</a>
             <a href="#interesting-events">Stories</a>
             <a href="#college">About</a>
           </div>
-          {/* Social Media Icons */}
           <div className="flex items-center space-x-6">
+            <a className="navigation-blog-button" href="/blog">Blog</a>
             <a
               href="https://www.linkedin.com/in/sibi-narendran-1a5a19150/"
               target="_blank"
