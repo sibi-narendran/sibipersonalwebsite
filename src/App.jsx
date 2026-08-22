@@ -2,7 +2,6 @@ import HeroSection from "./components/HeroSection";
 import InterestingEventsPartOne from "./components/InterestingEventsPartOne";
 import CollegeDropoutSection from "./components/CollegeDropoutSection";
 import Ventures from "./components/Ventures";
-import TextFirstAgi from "./components/TextFirstAgi";
 import InterestingEventsPartTwo from "./components/InterestingEventsPartTwo";
 import FunStuffs from "./components/FunStuffs";
 import Navbar from "./components/Navbar";
@@ -17,7 +16,6 @@ const App = () => {
       <InterestingEventsPartOne />
       <CollegeDropoutSection />
       <Ventures />
-      <TextFirstAgi />
       <InterestingEventsPartTwo />
       <FunStuffs />
       <Footer />
