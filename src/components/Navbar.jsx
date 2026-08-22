@@ -41,6 +41,7 @@ const Navbar = () => {
           <a className="navigation-name" href="#home">Sibi Narendran<span>.</span></a>
           <div className="navigation-links" aria-label="Sections">
             <a href="#ventures">Ventures</a>
+            <a href="#text-first-agi">Blog</a>
             <a href="#interesting-events">Stories</a>
             <a href="#college">About</a>
           </div>
