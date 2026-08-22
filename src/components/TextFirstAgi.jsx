@@ -1,12 +1,11 @@
 const TextFirstAgi = () => (
-  <section id="blog" className="agi-essay">
-    <header className="agi-blog-header">
-      <p className="section-kicker">Blog</p>
-      <h2>Ideas worth testing.</h2>
-      <p>Notes on intelligence, systems, and building companies.</p>
-    </header>
+  <section className="agi-essay">
+    <nav className="post-page-nav">
+      <a href="/blog" className="post-page-nav__brand">Sibi Narendran<span>.</span></a>
+      <a href="/blog" className="post-page-nav__back">← All posts</a>
+    </nav>
 
-    <article id="text-first-agi" className="agi-essay__post">
+    <article className="agi-essay__post">
     <div className="agi-essay__intro">
       <p className="section-kicker">A working thesis</p>
       <p className="agi-essay__date">22 AUG 2026 · SIBI NARENDRAN</p>
