@@ -1,5 +1,12 @@
 const TextFirstAgi = () => (
-  <section id="text-first-agi" className="agi-essay">
+  <section id="blog" className="agi-essay">
+    <header className="agi-blog-header">
+      <p className="section-kicker">Blog</p>
+      <h2>Ideas worth testing.</h2>
+      <p>Notes on intelligence, systems, and building companies.</p>
+    </header>
+
+    <article id="text-first-agi" className="agi-essay__post">
     <div className="agi-essay__intro">
       <p className="section-kicker">A working thesis</p>
       <p className="agi-essay__date">22 AUG 2026 · SIBI NARENDRAN</p>
@@ -77,6 +84,7 @@ const TextFirstAgi = () => (
         <p><strong>Inspiration:</strong> the idea is partly inspired by watching AI learn through repeated attempts and measurable feedback in <a href="https://www.youtube.com/watch?v=zFLQU70QstY" target="_blank" rel="noreferrer">Yosh’s Trackmania project</a>. The proposal here extends that learning loop into a persistent, social, text-first world.</p>
       </aside>
     </div>
+    </article>
   </section>
 );
 
