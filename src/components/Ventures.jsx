@@ -70,7 +70,7 @@ const Ventures = () => {
                 <div className="venture-intro">
                   <span className="venture-index">03</span>
                   <h3>Dooza</h3>
-                  <p className="venture-meta">Forward-deployed AI engineering · Founded in 2024</p>
+                  <p className="venture-meta">AI-native services · Founded in 2024</p>
                   <a className="venture-link" href="https://www.dooza.ai" target="_blank" rel="noreferrer">dooza.ai ↗</a>
                 </div>
                 <div className="venture-image dooza-image">
@@ -79,7 +79,7 @@ const Ventures = () => {
                 </div>
               </div>
               <div className="venture-story">
-                <p>Dooza is my most recent and most ambitious venture. We embed with businesses, find the work that repeats, and deploy AI employees that handle it. Before starting Dooza, I booked an Airbnb in Bangalore, locked myself in, and taught myself AI and coding. After a month, I wasn&apos;t a genius, but I had enough confidence to start building. Since then, we&apos;ve already pivoted once. I believe this will be the biggest company I&apos;ve ever built. Let&apos;s see where it takes me.</p>
+                <p>Dooza is an AI-native services company and my most recent venture. We&apos;re currently testing multiple pitches across several ideal customer profiles to learn where we can create the most value. Before starting Dooza, I booked an Airbnb in Bangalore, locked myself in, and taught myself AI and coding. After a month, I wasn&apos;t a genius, but I had enough confidence to start building. We&apos;re still experimenting, learning, and refining our direction. Let&apos;s see where it takes me.</p>
               </div>
             </article>
           </div>
