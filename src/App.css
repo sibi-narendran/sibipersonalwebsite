@@ -97,6 +97,13 @@
 .venture-panel:hover .venture-image > img:not(.dooza-icon):not(.dooza-wordmark) { transform: scale(1.04); }
 .venture-story { border-top: 1px solid var(--line); padding: 2.2rem clamp(2rem, 5vw, 4.7rem) 2.6rem; }
 .venture-story p { color: var(--muted); font-size: .95rem; line-height: 1.8; margin: 0; max-width: 65rem; }
+.venture-video-feature { align-items: center; background: #0b211f; display: grid; grid-template-columns: minmax(0, .72fr) minmax(0, 1.28fr); }
+.venture-video-copy { padding: clamp(2rem, 4vw, 3.8rem); }
+.venture-video-copy .section-kicker { color: var(--lime); }
+.venture-video-copy h4 { color: #fff !important; font-family: var(--serif); font-size: clamp(1.9rem, 3vw, 3rem); font-weight: 500; line-height: 1.05; margin: 0 0 1.25rem; }
+.venture-video-copy > p:last-child { color: rgba(255,255,255,.74); font-size: .94rem; line-height: 1.75; margin: 0; }
+.venture-video-frame { aspect-ratio: 16 / 9; background: #071412; overflow: hidden; }
+.venture-video-frame iframe { border: 0; height: 100%; width: 100%; }
 .logo-image { align-items: center; background: #d6c8b7; display: flex; justify-content: center; }
 .logo-image img { height: auto !important; max-width: 70%; object-fit: contain !important; width: auto !important; }
 .dooza-panel { background: #e9f6f0; border-color: rgba(15,118,110,.28); }
@@ -145,7 +152,7 @@
   .hero-section h1 { font-size: clamp(3.45rem, 18vw, 5.5rem) !important; }
   .hero-section img { height: min(72vw, 18rem) !important; width: min(72vw, 18rem) !important; }
   .event-section, .college-shell section, .ventures-shell section, .more-events-shell section, .fun-shell section { padding: 5rem 0 !important; }
-  .denmark-card, .venture-grid { grid-template-columns: 1fr; }
+  .denmark-card, .venture-grid, .venture-video-feature { grid-template-columns: 1fr; }
   .event-section h2, .college-shell h2, .venture-heading h2, .fun-shell h2 { font-size: clamp(2.75rem, 14vw, 4.1rem) !important; }
   .event-section h3 { font-size: clamp(1.55rem, 8vw, 2.1rem) !important; }
   .denmark-card > img { aspect-ratio: 16 / 9; min-height: 0; order: -1; }
@@ -153,6 +160,7 @@
   .venture-grid-reverse .venture-image { order: -1; }
   .venture-intro { padding: 2.2rem 1.6rem; }
   .venture-story { padding: 1.7rem 1.6rem 2rem; }
+  .venture-video-copy { padding: 2.2rem 1.6rem; }
   .venture-image { min-height: 240px; }
   .venture-stat strong { font-size: clamp(2.6rem, 16vw, 4rem); }
   .dooza-wordmark { max-width: 210px; width: 62%; }

@@ -30,6 +30,24 @@ const Ventures = () => {
               <div className="venture-story">
                 <p>When I was 16, I took over digital marketing for my father&apos;s company, Suresh Timbers. At the time, sales were around $10,000/month. I made a bold bet, scaled the ad budget and launched multiple high-production video shoots. But for the first three months, nothing worked. Zero sales. Everyone turned against me, my own team, my father, even the company wanted to pull the plug. The pressure was intense. I was still a teenager, carrying the weight of the business on my shoulders. But I didn&apos;t quit. I doubled down, waited, and finally got results the following month. That early failure, rejection, and eventual comeback built something deeper in me, resilience under pressure.</p>
               </div>
+              <div className="venture-video-feature">
+                <div className="venture-video-copy">
+                  <p className="section-kicker">Campaign highlight</p>
+                  <h4>A local-celebrity ad for Suresh Timbers</h4>
+                  <p>
+                    I produced this promotional ad with a local celebrity, and the campaign performed well. There&apos;s a scene where the celebrity gets a quote from the owner of Suresh Timbers—that owner is me.
+                  </p>
+                </div>
+                <div className="venture-video-frame">
+                  <iframe
+                    src="https://www.youtube-nocookie.com/embed/WNWoEHyPI9k"
+                    title="Suresh Timbers promotional ad featuring a local celebrity"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    referrerPolicy="strict-origin-when-cross-origin"
+                    allowFullScreen
+                  />
+                </div>
+              </div>
             </article>
 
             <article className="venture-panel interio-panel">
