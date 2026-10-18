@@ -2,6 +2,14 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "rewrites": [
     {
+      "source": "/ai-2027-tracker",
+      "destination": "/ai-2027-tracker/index.html"
+    },
+    {
+      "source": "/ai-2029",
+      "destination": "/ai-2027-tracker/index.html"
+    },
+    {
       "source": "/(.*)",
       "destination": "/index.html"
     }
