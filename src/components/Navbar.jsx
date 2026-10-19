@@ -30,7 +30,8 @@ const Navbar = () => {
             <a href="#interesting-events">Stories</a>
             <a href="#college">About</a>
           </div>
-          <div className="flex items-center space-x-6">
+          <div className="flex items-center space-x-3 sm:space-x-6">
+            <a className="navigation-blog-button" href="/ai-2027-tracker">AI 2027</a>
             <a className="navigation-blog-button" href="/blog">Blog</a>
             <a
               href="https://www.linkedin.com/in/sibi-narendran-1a5a19150/"

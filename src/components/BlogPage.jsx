@@ -1,5 +1,11 @@
 const posts = [
   {
+    date: '19 OCT 2026',
+    title: 'AI 2027 vs reality: a live tracker.',
+    excerpt: 'Every dated AI 2027 prediction next to what has really happened, with sources. Calls still in their window show progress so far and the months left.',
+    href: '/ai-2027-tracker',
+  },
+  {
     date: '22 AUG 2026',
     title: 'We may not need a 3D world to begin building AGI.',
     excerpt: 'Today’s LLMs can be training wheels. A persistent text world could be where continuously learning agents develop through memory, action, and consequences.',
