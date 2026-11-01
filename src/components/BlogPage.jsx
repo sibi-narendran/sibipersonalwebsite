@@ -1,5 +1,11 @@
 const posts = [
   {
+    date: '02 NOV 2026',
+    title: 'Every small business will hire AI employees. I am betting my company on it.',
+    excerpt: 'Why AI employees are the biggest shift for small business since the internet, the Klarna warning, and three dated predictions you can grade me on.',
+    href: '/ai-employees-every-small-business',
+  },
+  {
     date: '19 OCT 2026',
     title: 'AI 2027 vs reality: a live tracker.',
     excerpt: 'Every dated AI 2027 prediction next to what has really happened, with sources. Calls still in their window show progress so far and the months left.',

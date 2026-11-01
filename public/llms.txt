@@ -10,6 +10,7 @@
 - Taught himself AI and coding in a month-long self-study stint in Bangalore before starting Dooza.
 
 ## Writing
+- [Every small business will hire AI employees](https://www.sibinarendran.com/ai-employees-every-small-business): the thesis behind Dooza, the Klarna warning, three dated predictions.
 - [AI 2027 vs reality: a live tracker](https://www.sibinarendran.com/ai-2027-tracker): every dated AI 2027 prediction next to what really happened, with sources.
 - [AI 2029: a scenario written in October 2026](https://www.sibinarendran.com/ai-2029): dated predictions for 2026-2028, graded as they come due.
 - [We may not need a 3D world to begin building AGI](https://www.sibinarendran.com/blog/text-first-agi): a thesis for text-first worlds where AI agents learn from consequences.

@@ -2,6 +2,10 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "rewrites": [
     {
+      "source": "/ai-employees-every-small-business",
+      "destination": "/ai-employees-every-small-business/index.html"
+    },
+    {
       "source": "/ai-2027-tracker",
       "destination": "/ai-2027-tracker/index.html"
     },
