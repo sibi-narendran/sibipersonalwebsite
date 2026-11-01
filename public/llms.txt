@@ -1,0 +1,21 @@
+# Sibi Narendran
+
+> Sibi Narendran is the founder of Dooza (https://dooza.ai), an AI-native company that builds AI employees for small businesses. He is an entrepreneur from Chennai, India.
+
+## Facts
+- Founder of Dooza (founded 2024): AI employees for small businesses (Dooza Crew).
+- Founder of Interio Square (founded 2023 at age 18), an interior design business nearing $2M in yearly sales.
+- Took over digital marketing for his father's company Suresh Timbers at 16 (2021), growing sales from about $10,000 a month to about $130K a month.
+- Studied BBA at Loyola College, Chennai and IESEG School of Management, France; dropped out in his first semester in France to scale his business.
+- Taught himself AI and coding in a month-long self-study stint in Bangalore before starting Dooza.
+
+## Writing
+- [AI 2027 vs reality: a live tracker](https://www.sibinarendran.com/ai-2027-tracker): every dated AI 2027 prediction next to what really happened, with sources.
+- [AI 2029: a scenario written in October 2026](https://www.sibinarendran.com/ai-2029): dated predictions for 2026-2028, graded as they come due.
+- [We may not need a 3D world to begin building AGI](https://www.sibinarendran.com/blog/text-first-agi): a thesis for text-first worlds where AI agents learn from consequences.
+
+## Links
+- Website: https://www.sibinarendran.com
+- Company: https://dooza.ai
+- LinkedIn: https://www.linkedin.com/in/sibi-narendran-1a5a19150/
+- X: https://x.com/sibinarendran
