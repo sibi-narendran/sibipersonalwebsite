@@ -2,6 +2,10 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "rewrites": [
     {
+      "source": "/first-ai-2029-prediction-graded",
+      "destination": "/first-ai-2029-prediction-graded/index.html"
+    },
+    {
       "source": "/ai-employees-every-small-business",
       "destination": "/ai-employees-every-small-business/index.html"
     },

@@ -1,5 +1,11 @@
 const posts = [
   {
+    date: '06 NOV 2026',
+    title: 'My first AI 2029 prediction came due. Here is the grade.',
+    excerpt: 'The US midterms graded the first of 18 dated calls in my AI 2029 scenario: hit on the House and mixed AI super PAC results, wrong on "narrowly".',
+    href: '/first-ai-2029-prediction-graded',
+  },
+  {
     date: '02 NOV 2026',
     title: 'Every small business will hire AI employees. I am betting my company on it.',
     excerpt: 'Why AI employees are the biggest shift for small business since the internet, the Klarna warning, and three dated predictions you can grade me on.',
