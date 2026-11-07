@@ -10,6 +10,7 @@
 - Taught himself AI and coding in a month-long self-study stint in Bangalore before starting Dooza.
 
 ## Writing
+- [AI is closer to industrialization than to any other technology](https://www.sibinarendran.com/ai-is-industrialization-not-another-gadget): Power and Progress (Acemoglu & Johnson) applied to AI: the productivity bandwagon, so-so automation, and who gets the gains.
 - [First AI 2029 prediction graded](https://www.sibinarendran.com/first-ai-2029-prediction-graded): the November 2026 US midterms against my dated call (hit; wrong on "narrowly").
 - [Every small business will hire AI employees](https://www.sibinarendran.com/ai-employees-every-small-business): the thesis behind Dooza, the Klarna warning, three dated predictions.
 - [AI 2027 vs reality: a live tracker](https://www.sibinarendran.com/ai-2027-tracker): every dated AI 2027 prediction next to what really happened, with sources.

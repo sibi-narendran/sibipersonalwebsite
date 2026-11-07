@@ -69,6 +69,7 @@ const routes = [
 <p>BBA at Loyola College, Chennai and IESEG School of Management, France. Dropped out in the first semester in France to return to India and scale his business.</p>
 <h2>Writing</h2>
 <ul>
+<li><a href="/ai-is-industrialization-not-another-gadget">AI is closer to industrialization than to any other technology</a></li>
 <li><a href="/first-ai-2029-prediction-graded">My first AI 2029 prediction came due. Here is the grade.</a></li>
 <li><a href="/ai-employees-every-small-business">Every small business will hire AI employees. I am betting my company on it.</a></li>
 <li><a href="/ai-2027-tracker">AI 2027 vs reality: a live tracker</a></li>
@@ -86,6 +87,7 @@ const routes = [
     body: wrap(`${nav}
 <h1>Blog</h1><p>Ideas worth testing. Writing on intelligence, systems, and building companies.</p>
 <ul>
+<li><a href="/ai-is-industrialization-not-another-gadget">AI is closer to industrialization than to any other technology</a> (7 Nov 2026). Why AI looks like the Industrial Revolution, read through Power and Progress.</li>
 <li><a href="/first-ai-2029-prediction-graded">My first AI 2029 prediction came due. Here is the grade.</a> (6 Nov 2026). The first graded call of my AI 2029 scenario: the US midterms.</li>
 <li><a href="/ai-employees-every-small-business">Every small business will hire AI employees. I am betting my company on it.</a> (2 Nov 2026).</li>
 <li><a href="/ai-2027-tracker">AI 2027 vs reality: a live tracker</a> (19 Oct 2026). Every dated AI 2027 prediction next to what has really happened, with sources.</li>

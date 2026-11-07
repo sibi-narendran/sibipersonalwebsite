@@ -1,5 +1,11 @@
 const posts = [
   {
+    date: '07 NOV 2026',
+    title: 'AI is closer to industrialization than to any other technology',
+    excerpt: 'Power and Progress by Acemoglu and Johnson, applied to AI: why it looks like industrialization, not the internet, and who gets the gains.',
+    href: '/ai-is-industrialization-not-another-gadget',
+  },
+  {
     date: '06 NOV 2026',
     title: 'My first AI 2029 prediction came due. Here is the grade.',
     excerpt: 'The US midterms graded the first of 18 dated calls in my AI 2029 scenario: hit on the House and mixed AI super PAC results, wrong on "narrowly".',
