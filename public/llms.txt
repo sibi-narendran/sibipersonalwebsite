@@ -10,6 +10,7 @@
 - Taught himself AI and coding in a month-long self-study stint in Bangalore before starting Dooza.
 
 ## Writing
+- [The spreadsheet killed a job. Then it grew one.](https://www.sibinarendran.com/spreadsheet-killed-a-job-grew-one): VisiCalc, bookkeeping vs accountant jobs (BLS), and three dated predictions for AI agents in small business
 - [AI is closer to industrialization than to any other technology](https://www.sibinarendran.com/ai-is-industrialization-not-another-gadget): Power and Progress (Acemoglu & Johnson) applied to AI: the productivity bandwagon, so-so automation, and who gets the gains.
 - [First AI 2029 prediction graded](https://www.sibinarendran.com/first-ai-2029-prediction-graded): the November 2026 US midterms against my dated call (hit; wrong on "narrowly").
 - [Every small business will hire AI employees](https://www.sibinarendran.com/ai-employees-every-small-business): the thesis behind Dooza, the Klarna warning, three dated predictions.

@@ -2,6 +2,10 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "rewrites": [
     {
+      "source": "/spreadsheet-killed-a-job-grew-one",
+      "destination": "/spreadsheet-killed-a-job-grew-one/index.html"
+    },
+    {
       "source": "/ai-is-industrialization-not-another-gadget",
       "destination": "/ai-is-industrialization-not-another-gadget/index.html"
     },

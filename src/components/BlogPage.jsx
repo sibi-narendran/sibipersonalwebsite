@@ -1,5 +1,11 @@
 const posts = [
   {
+    date: '09 NOV 2026',
+    title: 'The spreadsheet killed a job. Then it grew one.',
+    excerpt: 'VisiCalc cut bookkeeping clerk jobs and grew accounting jobs. What that predicts for AI agents in small business, with three dated calls.',
+    href: '/spreadsheet-killed-a-job-grew-one',
+  },
+  {
     date: '07 NOV 2026',
     title: 'AI is closer to industrialization than to any other technology',
     excerpt: 'Power and Progress by Acemoglu and Johnson, applied to AI: why it looks like industrialization, not the internet, and who gets the gains.',
