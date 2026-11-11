@@ -1,5 +1,11 @@
 const posts = [
   {
+    date: '11 NOV 2026',
+    title: 'The elevator did not need a better motor. It needed a stop button.',
+    excerpt: 'Automatic elevators existed from about 1900 but took more than 50 years to catch on. What that predicts for AI agents in small business, with three dated calls.',
+    href: '/elevators-waited-on-trust',
+  },
+  {
     date: '09 NOV 2026',
     title: 'The spreadsheet killed a job. Then it grew one.',
     excerpt: 'VisiCalc cut bookkeeping clerk jobs and grew accounting jobs. What that predicts for AI agents in small business, with three dated calls.',

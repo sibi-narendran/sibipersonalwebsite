@@ -2,6 +2,10 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "rewrites": [
     {
+      "source": "/elevators-waited-on-trust",
+      "destination": "/elevators-waited-on-trust/index.html"
+    },
+    {
       "source": "/spreadsheet-killed-a-job-grew-one",
       "destination": "/spreadsheet-killed-a-job-grew-one/index.html"
     },
